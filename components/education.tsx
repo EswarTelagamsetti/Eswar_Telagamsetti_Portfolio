@@ -9,8 +9,8 @@ export function Education() {
       company: "Insient",
       period: "March 2025 — July 2025",
       description:
-        "Developed and deployed 3 full-stack web applications using Flask, JavaScript, and MySQL. Enhanced frontend responsiveness and reduced backend response time by 25% through optimized database queries.",
-      achievements: ["25% Backend Performance Improvement", "3 Full-Stack Applications", "Database Query Optimization"],
+        "Developed and deployed full-stack web applications using Flask, JavaScript, and MySQL. Enhanced frontend responsiveness and reduced backend response time through optimized database queries.",
+      achievements: ["Backend Performance Improvement", "Full-Stack Applications", "Database Query Optimization"],
     },
     {
       title: "AIML Intern",
