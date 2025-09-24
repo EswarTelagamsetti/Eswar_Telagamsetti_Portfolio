@@ -59,7 +59,7 @@ export function Hero() {
             >
               View My Work
             </Button>
-            <Button
+          <!--  <Button
               size="lg"
               variant="outline"
               onClick={openResume}
@@ -67,7 +67,7 @@ export function Hero() {
             >
               <Download className="h-4 w-4 mr-2" />
               View My Resume
-            </Button>
+            </Button> -->
           </div>
         </div>
 
