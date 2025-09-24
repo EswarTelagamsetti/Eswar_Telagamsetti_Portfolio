@@ -59,7 +59,6 @@ export function Hero() {
             >
               View My Work
             </Button>
-          
           </div>
         </div>
 
